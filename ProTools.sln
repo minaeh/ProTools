@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTools.WPF", "ProTools\ProTools.WPF.csproj", "{76152EAD-6265-4E44-9310-A8F7215C06C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProTools.Cipher", "ProTools.Cipher\ProTools.Cipher.csproj", "{EE737434-22F8-4068-A5FA-8E554E742C66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76152EAD-6265-4E44-9310-A8F7215C06C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76152EAD-6265-4E44-9310-A8F7215C06C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76152EAD-6265-4E44-9310-A8F7215C06C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76152EAD-6265-4E44-9310-A8F7215C06C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE737434-22F8-4068-A5FA-8E554E742C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE737434-22F8-4068-A5FA-8E554E742C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE737434-22F8-4068-A5FA-8E554E742C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE737434-22F8-4068-A5FA-8E554E742C66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C23C0269-FDC7-4B06-852A-BA4178928356}
+	EndGlobalSection
+EndGlobal
